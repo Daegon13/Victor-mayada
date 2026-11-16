@@ -1,0 +1,16 @@
+{
+  "businessName": "Víctor Mayada | Servicio Técnico de Ómnibus",
+  "personName": "Víctor Mayada",
+  "tagline": "40 años de experiencia al servicio del transporte.",
+  "siteUrl": "",
+  "whatsapp": "",
+  "phone": "",
+  "email": "",
+  "serviceArea": "",
+  "address": "",
+  "portraitUrl": "",
+  "analyticsEndpoint": "",
+  "analyticsEnabled": false,
+  "servicesConfirmed": ["Ómnibus convencionales", "Ómnibus eléctricos", "Ómnibus híbridos", "Consulta sobre diagnóstico y reparación de ómnibus"],
+  "note": "Completar datos de contacto, cobertura, fotos reales y URL antes de publicar; no declarar capacidades no verificadas."
+}

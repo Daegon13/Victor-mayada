@@ -1,0 +1,7 @@
+---
+import rawMarkup from '../templates/index.html?raw';
+import settings from '../../public/site-config.json';
+import { renderPage } from '../render.ts';
+const html = renderPage(rawMarkup, settings);
+---
+<Fragment set:html={html} />
